@@ -9,7 +9,10 @@ Built with clean modular separation (`index.html`, external CSS, and modular Jav
 
 ## 🌐 Live Demo
 
+
 [View Live Portfolio](https://ai-software-engineer-portfolio-lac.vercel.app/)
+
+
 ---
 
 ## 🚀 Features
@@ -60,8 +63,8 @@ ai-software-engineer-portfolio/
 *AI/ML Engineer | Backend Architect | Full-Stack Developer*
 
 - **GitHub:** [@leonardphokane](https://github.com/leonardphokane)
-- **LinkedIn:** ![Leonard Phokane](https://linkedin.com/in/leonard-phokane)
-- **Email:** ![leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)
+- **LinkedIn:** [Leonard Phokane](https://linkedin.com/in/leonard-phokane)
+- **Email:** [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)
 - **Location:** `Tembisa / Johannesburg, South Africa (Remote-friendly)`
 
 `© 2026 Leonard Phokane. All rights reserved.`
