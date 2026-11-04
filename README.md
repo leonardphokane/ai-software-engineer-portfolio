@@ -1,12 +1,14 @@
 # Leonard Phokane | AI/ML Engineer & Full-Stack Developer Portfolio
 
+![Header](assets/images/header.png)
 A production-grade, highly responsive personal portfolio website showcasing expertise in artificial intelligence, machine learning classification pipelines, high-throughput backend architecture, and modern full-stack web applications.
 
 Built with clean modular separation (`index.html`, external CSS, and modular JavaScript) and a dark glassmorphism aesthetic powered by Tailwind CSS.
 
 ---
 
-## 🌐 **Live Demo:** [Leonard Phokane | AI/ML Engineer & Full-Stack Developer](https://leonardphokane.github.io/ai-software-engineer-portfolio/)
+## 🌐 Live Demo:
+![Leonard Phokane | AI/ML Engineer & Full-Stack Developer](https://leonardphokane.github.io/ai-software-engineer-portfolio/)
 
 ---
 
@@ -49,16 +51,17 @@ ai-software-engineer-portfolio/
    ---
 
 ## 👨🏾‍💻 Author
-**Leonard Phokane**
 
-AI/ML Engineer | Backend Architect | Full-Stack Developer
+<p align="center">
+  <img src="assets/images/profile.jpg" alt="Leonard Phokane" width="180" height="180" style="border-radius: 50%;">
+</p>
 
-- **GitHub**: `@leonardphokane`
+**Leonard Phokane**  
+*AI/ML Engineer | Backend Architect | Full-Stack Developer*
 
-- **LinkedIn**: `Leonard Phokane`
-
-- **Email**: `leonardphokane1@gmail.com`
-
-- **Location**: `Tembisa / Johannesburg, South Africa (Remote-friendly)`
+- **GitHub:** `[@leonardphokane](https://github.com/leonardphokane)`
+- **LinkedIn:** `[Leonard Phokane](https://linkedin.com/in/leonard-phokane)`
+- **Email:** `[leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)`
+- **Location:** `Tembisa / Johannesburg, South Africa (Remote-friendly)`
 
 `© 2026 Leonard Phokane. All rights reserved.`
