@@ -4,6 +4,12 @@ A production-grade, highly responsive personal portfolio website showcasing expe
 
 Built with clean modular separation (`index.html`, external CSS, and modular JavaScript) and a dark glassmorphism aesthetic powered by Tailwind CSS.
 
+---
+
+## 🌐 **Live Demo:** [Leonard Phokane | AI/ML Engineer & Full-Stack Developer](https://leonardphokane.github.io/ai-software-engineer-portfolio/)
+
+---
+
 ## 🚀 Features
 
 * **Interactive Hero Section:** Dynamic profile presentation with live operational badge and quick action buttons.
@@ -40,3 +46,19 @@ ai-software-engineer-portfolio/
 
    ```
    
+   ---
+
+## 👨🏾‍💻 Author
+**Leonard Phokane**
+
+AI/ML Engineer | Backend Architect | Full-Stack Developer
+
+- **GitHub**: `@leonardphokane`
+
+- **LinkedIn**: `Leonard Phokane`
+
+- **Email**: `leonardphokane1@gmail.com`
+
+- **Location**: `Tembisa / Johannesburg, South Africa (Remote-friendly)`
+
+`© 2026 Leonard Phokane. All rights reserved.`
